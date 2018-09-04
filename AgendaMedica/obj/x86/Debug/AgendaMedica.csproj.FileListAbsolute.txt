@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\bin\Debug\AgendaMedica.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\bin\Debug\AgendaMedica.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\obj\x86\Debug\AgendaMedica.AgendaConsulta.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\obj\x86\Debug\AgendaMedica.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\obj\x86\Debug\AgendaMedica.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\obj\x86\Debug\AgendaMedica.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\AgendaMedica\obj\x86\Debug\AgendaMedica.pdb
+G:\AgendaMedica\AgendaMedica\obj\x86\Debug\AgendaMedica.exe
+G:\AgendaMedica\AgendaMedica\obj\x86\Debug\AgendaMedica.pdb
+G:\AgendaMedica\AgendaMedica\obj\x86\Debug\AgendaMedica.AgendaConsulta.resources
+G:\AgendaMedica\AgendaMedica\obj\x86\Debug\AgendaMedica.Properties.Resources.resources
+G:\AgendaMedica\AgendaMedica\obj\x86\Debug\AgendaMedica.csproj.GenerateResource.Cache
+G:\AgendaMedica\AgendaMedica\bin\Debug\AgendaMedica.exe
+G:\AgendaMedica\AgendaMedica\bin\Debug\AgendaMedica.pdb
